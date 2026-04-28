@@ -1,3 +1,9 @@
+## [3.1.4](https://github.com/nodejs/branch-diff/compare/v3.1.3...v3.1.4) (2026-04-28)
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 6.3.0 to 6.4.0 ([#87](https://github.com/nodejs/branch-diff/issues/87)) ([d2dd5fe](https://github.com/nodejs/branch-diff/commit/d2dd5fe43c5c76cd3107b990b0dc347dbdcb5ced))
+
 ## [3.1.3](https://github.com/nodejs/branch-diff/compare/v3.1.2...v3.1.3) (2026-03-06)
 
 ### Trivial Changes
